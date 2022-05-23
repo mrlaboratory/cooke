@@ -1,5 +1,4 @@
-    
-     const cookie =  [
+[
     {
         "domain": "app.neilpatel.com",
         "hostOnly": true,
@@ -10,11 +9,11 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "eyJhdHRyaWJ1dGVzIjp7ImJpbGxpbmcgcGxhbiI6Im1vbnRobHkiLCJwbGFuIHRpZXIiOiJ0aWVyMyIsInVzZXIgdHlwZSI6ImZyZWUifSwidXNlcklkIjoid2VuYWNpbTUxOEBjaG9reHVzLmNvbSJ9"
+        "value": "eyJhdHRyaWJ1dGVzIjp7ImJpbGxpbmcgcGxhbiI6Im1vbnRobHkiLCJwbGFuIHRpZXIiOiJ0aWVyMyIsInVzZXIgdHlwZSI6InRyaWFsIn0sInVzZXJJZCI6InJhc2hlZHphbWFuQGdpdm1haWwuY29tIn0="
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1810479793,
+        "expirationDate": 1810983689,
         "hostOnly": false,
         "httpOnly": false,
         "name": "km_ai",
@@ -23,11 +22,23 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "wenacim518%40chokxus.com"
+        "value": "rashedzaman%40givmail.com"
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1652801593,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__hssrc",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".neilpatel.com",
+        "expirationDate": 1653305486,
         "hostOnly": false,
         "httpOnly": false,
         "name": "km_vs",
@@ -40,7 +51,7 @@
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1652886188,
+        "expirationDate": 1653390090,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_gid",
@@ -49,7 +60,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GA1.2.1850229714.1652447089"
+        "value": "GA1.2.1826184482.1653205162"
     },
     {
         "domain": ".neilpatel.com",
@@ -78,7 +89,7 @@
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1652801591,
+        "expirationDate": 1653306217,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_hjAbsoluteSessionInProgress",
@@ -91,10 +102,10 @@
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1652799814,
+        "expirationDate": 1659159831,
         "hostOnly": false,
         "httpOnly": false,
-        "name": "_gat_gtag_UA_16137731_1",
+        "name": "_vis_opt_exp_102_combi",
         "path": "/",
         "sameSite": null,
         "secure": false,
@@ -104,7 +115,7 @@
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1652801591,
+        "expirationDate": 1653306217,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_hjSession_2058125",
@@ -113,11 +124,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "eyJpZCI6IjVjYWZhMTg4LTU5ZWItNDA5Zi1hZDQ1LTY5NDQ2NGE4YzA4NSIsImNyZWF0ZWQiOjE2NTI3OTk1ODI1NzYsImluU2FtcGxlIjpmYWxzZX0="
+        "value": "eyJpZCI6ImNjYjE4ZjA0LTc3NzItNDNmZC1iYTg4LWQzZjJhMDU1MGU0MSIsImNyZWF0ZWQiOjE2NTMzMDM2OTA0NDcsImluU2FtcGxlIjpmYWxzZX0="
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1652801607,
+        "expirationDate": 1653306477,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_vwo_sn",
@@ -126,11 +137,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "352484%3A5"
+        "value": "337652%3A1"
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1810129142,
+        "expirationDate": 1810661222,
         "hostOnly": false,
         "httpOnly": false,
         "name": "km_lv",
@@ -143,7 +154,7 @@
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1683983089,
+        "expirationDate": 1684502027,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_hjid",
@@ -155,8 +166,21 @@
         "value": "73c78017-88c4-4c1b-a2ba-3df56b0ffd59"
     },
     {
+        "domain": ".neilpatel.com",
+        "expirationDate": 1659670249,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_vis_opt_exp_104_combi",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "3"
+    },
+    {
         "domain": ".app.neilpatel.com",
-        "expirationDate": 1652972576.031384,
+        "expirationDate": 1653377981.215568,
         "hostOnly": false,
         "httpOnly": false,
         "name": "id",
@@ -165,11 +189,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "cb602cbb-94fd-49ca-a89b-7a49be95c2c4"
+        "value": "419ff3a5-a6c8-4ef0-9250-1ee69c1fa07c"
     },
     {
         "domain": "app.neilpatel.com",
-        "expirationDate": 1652799911,
+        "expirationDate": 1653304771,
         "hostOnly": true,
         "httpOnly": false,
         "name": "_hjIncludedInSessionSample",
@@ -182,7 +206,7 @@
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1661309946,
+        "expirationDate": 1661845171,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_vis_opt_s",
@@ -191,11 +215,37 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "2%7C"
+        "value": "3%7C"
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1684335807,
+        "expirationDate": 1668855699,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__hstc",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "240018588.f9c6bd34dcc84c57dc74f007d69d1394.1652966027608.1653285540988.1653303699460.8"
+    },
+    {
+        "domain": ".neilpatel.com",
+        "expirationDate": 1653305499,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__hssc",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "240018588.1.1653303699460"
+    },
+    {
+        "domain": ".neilpatel.com",
+        "expirationDate": 1684839699,
         "hostOnly": false,
         "httpOnly": false,
         "name": "__zlcmid",
@@ -204,11 +254,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "19xkvDzcDsFJRMI"
+        "value": "1A3kw8dgRcOTK0k"
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1660479982,
+        "expirationDate": 1660981229,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_fbp",
@@ -221,7 +271,7 @@
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1715871788,
+        "expirationDate": 1716375690,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -230,11 +280,24 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GA1.2.888761927.1652447089"
+        "value": "GA1.2.2093858156.1652966028"
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1684335791,
+        "expirationDate": 1660742052,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gcl_au",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1.1.1666809279.1652966053"
+    },
+    {
+        "domain": ".neilpatel.com",
+        "expirationDate": 1684839690,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_hjSessionUser_2058125",
@@ -243,11 +306,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "eyJpZCI6ImFhMzZhMmIzLTE2ZGUtNWJlNi04YzNkLTRmNWNjOTdkYTliZiIsImNyZWF0ZWQiOjE2NTI0NDcwODk1NTEsImV4aXN0aW5nIjp0cnVlfQ=="
+        "value": "eyJpZCI6ImFhMzZhMmIzLTE2ZGUtNWJlNi04YzNkLTRmNWNjOTdkYTliZiIsImNyZWF0ZWQiOjE2NTI5NjYwNDI4NDUsImV4aXN0aW5nIjp0cnVlfQ=="
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1660223089,
+        "expirationDate": 1660742047,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_vwo_ds",
@@ -256,11 +319,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "3%241652447042%3A54.61650965%3A%3A"
+        "value": "3%241652966007%3A59.87105002%3A%3A"
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1967807089,
+        "expirationDate": 1968326047,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_vwo_uuid",
@@ -269,11 +332,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "D4D4EC4F289D9F6DAEA316915BF110DAE"
+        "value": "D38D95F6AE693A09E475B97522027814E"
     },
     {
         "domain": ".app.neilpatel.com",
-        "expirationDate": 1684422191,
+        "expirationDate": 1684926086,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_vwo_uuid_v2",
@@ -282,11 +345,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "D4D4EC4F289D9F6DAEA316915BF110DAE|b1cc572ee8236464b567d73e6e8ce51d"
+        "value": "D7260CD5C063251482DB8DA6979204778|2d15b5d2c1f29b6e842b004d370526cd"
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1968159788,
+        "expirationDate": 1968663689,
         "hostOnly": false,
         "httpOnly": false,
         "name": "amp_276990",
@@ -295,11 +358,24 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "8KTC4aeQ0zYP-UJW7ccKvM.Y2I2MDJjYmItOTRmZC00OWNhLWE4OWItN2E0OWJlOTVjMmM0..1g398g5gs.1g398mdgi.d.0.d"
+        "value": "FoveuAsLHywy6DH8AYIrH3.NDE5ZmYzYTUtYTZjOC00ZWYwLTkyNTAtMWVlNjljMWZhMDdj..1g3o987fd.1g3o987fd.3.0.3"
     },
     {
         "domain": ".neilpatel.com",
-        "expirationDate": 1810479793,
+        "expirationDate": 1668855699,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "hubspotutk",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "f9c6bd34dcc84c57dc74f007d69d1394"
+    },
+    {
+        "domain": ".neilpatel.com",
+        "expirationDate": 1810983689,
         "hostOnly": false,
         "httpOnly": false,
         "name": "km_ni",
@@ -308,7 +384,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "wenacim518%40chokxus.com"
+        "value": "rashedzaman%40givmail.com"
     },
     {
         "domain": ".neilpatel.com",
@@ -320,11 +396,24 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "1652799793338"
+        "value": "1653303686216"
+    },
+    {
+        "domain": ".neilpatel.com",
+        "expirationDate": 1959396052,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "tatari-session-cookie",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "74f20705-b37a-f881-c154-51edec1c8869"
     },
     {
         "domain": ".app.neilpatel.com",
-        "expirationDate": 1652972576.031487,
+        "expirationDate": 1653377981.215627,
         "hostOnly": false,
         "httpOnly": false,
         "name": "token",
@@ -333,20 +422,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJraWQiOiJrSjdIaUtjeXlHTEgyZDByeUp3S1wvZVFWWWVReGRMbGVTajZGVUU4cU9XWT0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJjYjYwMmNiYi05NGZkLTQ5Y2EtYTg5Yi03YTQ5YmU5NWMyYzQiLCJldmVudF9pZCI6Ijc5ZTMyNmE2LTczNjUtNDUxNi04YzllLWFjZDQ1NWZiNTNlZSIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE2NTI3OTk3MjgsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC51cy1lYXN0LTEuYW1hem9uYXdzLmNvbVwvdXMtZWFzdC0xXzA3cXdIWnN4OSIsImV4cCI6MTY1MjgwMzMyOCwiaWF0IjoxNjUyNzk5NzI4LCJqdGkiOiJhMzU5ZDU3Ny0zY2NmLTRkMzctODk4MS0zOWE0OWNjOWQyMmEiLCJjbGllbnRfaWQiOiI3ZmphNWtrYzVhcWZoYWdtMWtwM2JkOXFqNiIsInVzZXJuYW1lIjoiY2I2MDJjYmItOTRmZC00OWNhLWE4OWItN2E0OWJlOTVjMmM0In0.E44sZNWh1Dc6Wg7qJDbTK2OAuhhJ9VILPcXqQKkxwvDnXC6UoABXcQOspOSZyT73usQoF8Wa2Px4tHIjiOmNoQsukVe6u6X2jo97o81Rx043Q-MbOLXnnhZaaHH-cGhbtiCosWHYIyWDZYCgGg9GLEvH_ghw4qdI8JM8he50gufU2AjauLVmmFHWLLoTRHvi6Sj59Xw5cZ2VCXKijL030eeBO2D4RoJPLOpwZyJhYys4eRtswOLWMfLJOUwHK80p1PvpgTirwG7yT5YI-NftQ2m2_vs1NfanC1rGfEYnyKmfHrTF9ymPfreSsc_qGqTwPi18JEOcJcWGImxyaII-2g"
-    },
-    {
-        "domain": "app.neilpatel.com",
-        "expirationDate": 1655413391,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "Ubersuggest_app_Project_Flow",
-        "path": "/en",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "1"
+        "value": "eyJraWQiOiJrSjdIaUtjeXlHTEgyZDByeUp3S1wvZVFWWWVReGRMbGVTajZGVUU4cU9XWT0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI0MTlmZjNhNS1hNmM4LTRlZjAtOTI1MC0xZWU2OWMxZmEwN2MiLCJldmVudF9pZCI6ImY0MGMwNDYwLWUwOTMtNGY4Zi1hYTZjLWQ5MDEwMGY5YzNlZCIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE2NTMyMDUxODIsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC51cy1lYXN0LTEuYW1hem9uYXdzLmNvbVwvdXMtZWFzdC0xXzA3cXdIWnN4OSIsImV4cCI6MTY1MzIwODc4MiwiaWF0IjoxNjUzMjA1MTgyLCJqdGkiOiJjZWRiYjZhOC01ODE1LTQyNjUtODk5Zi1hNWE5NzUxZGQ5N2UiLCJjbGllbnRfaWQiOiI3ZmphNWtrYzVhcWZoYWdtMWtwM2JkOXFqNiIsInVzZXJuYW1lIjoiNDE5ZmYzYTUtYTZjOC00ZWYwLTkyNTAtMWVlNjljMWZhMDdjIn0.WNz4lHLzWDD3yqY2EGyyBeOYOdUhtPlwzDnYgC488SJp17_67QGwzUN478v48fFd2zwmz3rMaKHs__-FJ10wttlAeF5_vfnkB_545EAFwhhjOGU-TbQPn-eazzpD8dVeVCvYRwhi8FIexnUN3xGoeZm79M-uFCxLoJd4e3XmxHM_Uhi8cyMKhWW6rcp-3gcPfLXvU9cCD7q_ivAXFjTkHqhiWwwCM9_5sf07MHkWpf8PTL6WLo46IDQAd14TPp31Wjy72rp_6Zo-D9MAea-vqH5zLfM7el5BQErTsbWUZlBQeM1vh7L8NHQ-eJjr2nqZRTyok_z4v-zwvMy9_3IUtQ"
     }
 ]
-        
